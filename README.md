@@ -1,7 +1,7 @@
 # hachimisampler-一键包
 就是能直接运行hachimisampler的服务端
 
-下载: [点我] (https://github.com/QianSiqi/hachimisampler-yijianbao/releases/download/7z/hachimisampler.7z) 
+下载: [点我](https://github.com/QianSiqi/hachimisampler-yijianbao/releases/download/7z/hachimisampler.7z) 
 
 使用方法：
 1:
